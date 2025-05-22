@@ -38,3 +38,4 @@ the terms of [Eclipse Contributor Agreement](http://www.eclipse.org/legal/ECA.ph
 * [Javadoc](https://eclipse-ee4j.github.io/angus-mail/docs/api)
 * [Mailing list](https://accounts.eclipse.org/mailing-list/angus-dev)
 * [Nightly build job](https://ci.eclipse.org/angus/job/angus-mail-master-build/)
+# angus-mail-clone
